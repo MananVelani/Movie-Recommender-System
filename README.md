@@ -88,6 +88,4 @@ Contributions are welcome! If you have ideas for improvement (like adding Collab
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
----
 
-**Developed by [Manan Velani**](https://www.google.com/search?q=https://github.com/MananVelani)
