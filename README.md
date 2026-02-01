@@ -1,4 +1,4 @@
-Deployment Link : https://movie-recommender-system-06gg.onrender.com/
+Deployment Link : [https://movie-recommender-system-06gg.onrender.com/](https://movie-recommender-system-by-manan-velani.streamlit.app/)
 
 # Movie Recommender System 🎬
 
